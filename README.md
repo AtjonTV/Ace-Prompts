@@ -10,13 +10,14 @@ The prompts have been constructed in a way to make Gemma a helpful assistant and
 `Ace Glasses` is a prompt that is optimized for describing any image.  
 With the prompt Gemma does not refuse to describe images that contain guideline-violating content, it simply ignores it and describes everything around such content.
 
-The current recommended version of `Ace Glasses` is `v1.1`.
+The current recommended version of `Ace Glasses` is `v1.3`.
 
 Available versions:
 
 * `v1.0`: Not recommended. It refuses to provide a general description of images with violating content.
 * `v1.1`: RECOMMENDED. It describes everything AROUND the violating content OR can describe the content using harmless language.
 * `v1.2`: Not recommended. It was instructed to wiggle the rules a bit to describe violating content, instead it provides a less descriptive result as v1.1 that is not helpful.
+* `v1.3`: RECOMMENDED. Based on v1.1 with fixed spelling in the prompt.
 
 ### Ace Scientist
 
