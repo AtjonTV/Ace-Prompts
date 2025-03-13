@@ -41,6 +41,16 @@ The JSON files provided in this repository are made by/for `Open WebUI`.
 In order to use the Prompts you must install Ollama, `Open WebUI` and the `gemma3` model.  
 Then in `Open WebUI` go to `Workspace` > `Models` and click `Import Models` and select the prompt files you want.
 
+## Using Ace elsewhere
+
+You want to use Ace Prompts elsewhere?  
+Thankfully that is VERY easy.
+
+1. Open the respective JSON file of the Prompt you want.
+2. Locate the `params` key followed by the `system` key, inside of the `{}` from `params`
+3. Copy the text from inside the quotes, from `"` up until the end `",` (excluding the quotes and comma)
+4. Paste the Prompt into the `System Prompt` text input of your respective LLM Chat solution.
+
 ## License
 
 Copyright 2025 Thomas Obernosterer
