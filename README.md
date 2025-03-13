@@ -15,10 +15,10 @@ Available versions:
 
 | Version | Base | Recommended? | Description |
 |---------|------|--------------|-------------|
-| v1.0    |      | No           | Refuses to provide a general description of images with violating content. |
-| v1.1    | v1.0 | Yes          | Describes everything AROUND the violating content OR can describe the content using harmless language. |
-| v1.2    | v1.1 | No           | Was instructed to wiggle the rules a bit to describe violating content, instead it provides a less descriptive result as v1.1 that is not helpful. |
-| v1.3    | v1.1 | Yes          | Instructed to provide an objective interpretation of guideline violating content. Better responses on followup instructions. |
+| v1.0    |      | ❌            | Refuses to provide a general description of images with violating content. |
+| v1.1    | v1.0 | ✅            | Describes everything AROUND the violating content OR can describe the content using harmless language. |
+| v1.2    | v1.1 | ❌            | Was instructed to wiggle the rules a bit to describe violating content, instead it provides a less descriptive result as v1.1 that is not helpful. |
+| v1.3    | v1.1 | ✅            | Instructed to provide an objective interpretation of guideline violating content. Better responses on followup instructions. |
 
 ### Ace Scientist
 
@@ -31,7 +31,7 @@ Available versions:
 
 | Version | Base | Recommended? | Description |
 |---------|------|--------------|-------------|
-| v1.0    |      | Yes          | Instructed to search the web and to provide up-to-date and correct information. |
+| v1.0    |      | ✅            | Instructed to search the web and to provide up-to-date and correct information. |
 
 ## Installing Ace
 
