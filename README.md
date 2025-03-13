@@ -33,6 +33,18 @@ Available versions:
 |---------|------|--------------|-------------|
 | v1.0    |      | ✅            | Instructed to search the web and to provide up-to-date and correct information. |
 
+### Ace Alchemist
+
+`Ace Alchemist` is a prompt that makes Gemma a helpful database expert.
+
+The current recommended version of `Ace Alchemist` is `v1.0`.
+
+Available versions:
+
+| Version | Base | Recommended? | Description |
+|---------|------|--------------|-------------|
+| v1.0    |      | ✅            | Instructed to provide correct information, document and explain the outputs, keep things simple, cite documentation when possible |
+
 ## Installing Ace
 
 *Note: All recommended prompts are located in `current`, all others are located in `archive`.*
