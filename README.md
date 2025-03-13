@@ -14,10 +14,12 @@ The current recommended version of `Ace Glasses` is `v1.3`.
 
 Available versions:
 
-* `v1.0`: Not recommended. It refuses to provide a general description of images with violating content.
-* `v1.1`: RECOMMENDED. It describes everything AROUND the violating content OR can describe the content using harmless language.
-* `v1.2`: Not recommended. It was instructed to wiggle the rules a bit to describe violating content, instead it provides a less descriptive result as v1.1 that is not helpful.
-* `v1.3`: RECOMMENDED. Based on v1.1 with fixed spelling in the prompt.
+| Version | Base | Recommended? | Description |
+|---------|------|--------------|-------------|
+| v1.0    |      | No           | Refuses to provide a general description of images with violating content. |
+| v1.1    | v1.0 | Yes          | Describes everything AROUND the violating content OR can describe the content using harmless language. |
+| v1.2    | v1.1 | No           | Was instructed to wiggle the rules a bit to describe violating content, instead it provides a less descriptive result as v1.1 that is not helpful. |
+| v1.3    | v1.1 | Yes          | Instructed to provide an objective interpretation of guideline violating content. Better responses on followup instructions. |
 
 ### Ace Scientist
 
