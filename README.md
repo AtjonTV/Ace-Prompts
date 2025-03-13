@@ -39,3 +39,10 @@ Available versions:
 The JSON files provided in this repository are made by/for `Open WebUI`.  
 In order to use the Prompts you must install Ollama, `Open WebUI` and the `gemma3` model.  
 Then in `Open WebUI` go to `Workspace` > `Models` and click `Import Models` and select the prompt files you want.
+
+## License
+
+Copyright 2025 Thomas Obernosterer
+Licensed under the MIT License.
+
+See the LICENSE file for a copy of the full license.
