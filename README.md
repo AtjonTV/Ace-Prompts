@@ -36,6 +36,8 @@ Available versions:
 
 ## Installing Ace
 
+*Note: All recommended prompts are located in `current`, all others are located in `archive`.*
+
 The JSON files provided in this repository are made by/for `Open WebUI`.  
 In order to use the Prompts you must install Ollama, `Open WebUI` and the `gemma3` model.  
 Then in `Open WebUI` go to `Workspace` > `Models` and click `Import Models` and select the prompt files you want.
