@@ -58,10 +58,9 @@ Then in `Open WebUI` go to `Workspace` > `Models` and click `Import Models` and 
 You want to use Ace Prompts elsewhere?  
 Thankfully that is VERY easy.
 
-1. Open the respective JSON file of the Prompt you want.
-2. Locate the `params` key followed by the `system` key, inside of the `{}` from `params`
-3. Copy the text from inside the quotes, from `"` up until the end `",` (excluding the quotes and comma)
-4. Paste the Prompt into the `System Prompt` text input of your respective LLM Chat solution.
+1. Open the respective TXT file of the Prompt you want.
+2. Copy the complete prompt text
+3. Paste the Prompt into the `System Prompt` text input of your respective LLM Chat solution.
 
 ## License
 
