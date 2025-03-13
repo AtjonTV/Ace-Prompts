@@ -7,8 +7,7 @@ The prompts have been constructed in a way to make Gemma a helpful assistant and
 
 ### Ace Glasses
 
-`Ace Glasses` is a prompt that is optimized for describing any image.  
-With the prompt Gemma does not refuse to describe images that contain guideline-violating content, it simply ignores it and describes everything around such content.
+`Ace Glasses` is a prompt that is optimized for describing any image.
 
 The current recommended version of `Ace Glasses` is `v1.3`.
 
