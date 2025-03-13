@@ -30,7 +30,9 @@ The current recommended version of `Ace Scientist` is `v1.0`.
 
 Available versions:
 
-* `v1.0`: Recommended. Currently the only iteration of the prompt.
+| Version | Base | Recommended? | Description |
+|---------|------|--------------|-------------|
+| v1.0    |      | Yes          | Instructed to search the web and to provide up-to-date and correct information. |
 
 ## Installing Ace
 
