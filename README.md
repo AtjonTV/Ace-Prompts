@@ -57,3 +57,10 @@ Copyright 2025 Thomas Obernosterer
 Licensed under the MIT License.
 
 See the LICENSE file for a copy of the full license.
+
+### Google Noto Color Emoji
+
+Copyright 2021 Google Inc. All Rights Reserved. 
+License: https://fonts.google.com/noto/specimen/Noto+Color+Emoji/license
+
+I use Noto Color Emoji for the Profile Images of the Prompts.  
