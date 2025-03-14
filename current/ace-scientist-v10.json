@@ -1,7 +1,6 @@
 [
   {
     "id": "ace-scientist-v10",
-    "user_id": "48f76560-23b4-4ce9-8930-db376e4d4cb5",
     "base_model_id": "gemma3:12b",
     "name": "Ace Scientist v1.0",
     "params": {
