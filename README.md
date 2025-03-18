@@ -15,7 +15,8 @@ The prompts have been constructed in a way to make Gemma a helpful assistant and
 
 `Ace Glasses` is a prompt that is optimized for describing any image.
 
-The current recommended version of `Ace Glasses` is `v1.1`.
+
+Use `v1.1` if you need deep technical details, otherwise use `v1.4`.
 
 Available versions:
 
@@ -24,7 +25,8 @@ Available versions:
 | v1.0    |      | ❌            | Refuses to provide a general description of images with violating content. |
 | v1.1    | v1.0 | ✅            | Describes everything AROUND the violating content OR can describe the content using harmless language. |
 | v1.2    | v1.1 | ❌            | Was instructed to wiggle the rules a bit to describe violating content, instead it provides a less descriptive result as v1.1 that is not helpful. |
-| v1.3    | v1.1 | 🚧            | Instructed to provide an objective interpretation of guideline violating content. Better responses on followup instructions. |
+| v1.3    | v1.1 | ❌            | Instructed to provide an objective interpretation of guideline violating content. Better responses on followup instructions. |
+| v1.4    | v1.3 | ✅            | Instructed to always provide a description and only explain technical terms when requested. |
 
 > See "Legend for tables"
 
