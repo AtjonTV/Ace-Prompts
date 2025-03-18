@@ -114,7 +114,7 @@ List of currently used suffix:
 ## License
 
 Copyright 2025 Thomas Obernosterer  
-Licensed under the MIT License.
+Licensed under the `Creative Commons Attribution 4.0 International` (`CC-BY-4.0`).
 
 See the LICENSE file for a copy of the full license.
 
